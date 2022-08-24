@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8jNUCQsGLQHzFWzHFj3UpdQ0qWmSvKEfaKXGArfSH6yhBslWNxBHTMrcZByL/1AJ7FbWWsKo2DS1xrpwcNV1A==",
+  "success": true,
+  "projectFilePath": "D:\\LuccaDevises\\LuccaDevises\\LuccaDevises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julien\\.nuget\\packages\\graphalo\\1.0.0\\graphalo.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
